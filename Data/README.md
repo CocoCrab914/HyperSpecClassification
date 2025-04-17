@@ -4,7 +4,7 @@ An example hyperspectral image (`.tif`, ~300 MB) is provided via [Zenodo](https:
 
 To download it automatically, 
 
-Open the Zenodo link or
+Open [Zenodo](https://zenodo.org/records/15237072) or
 
 run:
 
