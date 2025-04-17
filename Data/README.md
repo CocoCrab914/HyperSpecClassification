@@ -9,5 +9,5 @@ Open the Zenodo link or
 run:
 
 ```bash
-bash download_example.sh
+bash Download_image.sh
 
