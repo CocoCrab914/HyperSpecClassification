@@ -7,8 +7,6 @@
 ### 📦 Research Information
 #### This code is part of a software toolkit for ecological and environmental element extraction, specifically serving as the fine-scale vegetation classification module. It uses a Random Forest algorithm to classify hyperspectral imagery, ultimately generating thematic vegetation classification maps.
 
-#### The classification approach and algorithmic design can be found in the following publication: https://doi.org/10.1016/j.jag.2021.102398
-
 
 ### 🧠 Requirements
 #### Python 3.8 + 
