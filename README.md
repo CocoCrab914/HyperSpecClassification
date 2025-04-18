@@ -17,3 +17,9 @@
 
 ### 📄 License
 #### This project is licensed under the MIT License.
+
+### ✨ Workflow
+#### 1. Download input data "02.tif" and "prunedsample.csv" in ../Data folder, follow ../Data/README.md
+#### 2. Run code "" in ../Code folder, follow ../Code/README.md
+#### 3. Compare your output with the expected output (files in ../Output folder).
+
